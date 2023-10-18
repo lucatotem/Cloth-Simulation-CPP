@@ -1,3 +1,3 @@
-# Clothsim
+# Clot Simulation
 
 I'm just testing
